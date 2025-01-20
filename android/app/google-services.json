@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "205195441568",
+    "project_id": "musicpod-e465a",
+    "storage_bucket": "musicpod-e465a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205195441568:android:b1aeae1467e28ba11ba0c5",
+        "android_client_info": {
+          "package_name": "com.example.baatchit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApXXkzsd7oxDpGP_LNsLTSDHQK-guOB0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205195441568:android:46ce9c102c62ec651ba0c5",
+        "android_client_info": {
+          "package_name": "com.example.musicpod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApXXkzsd7oxDpGP_LNsLTSDHQK-guOB0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205195441568:android:79abbfbf80fb9aae1ba0c5",
+        "android_client_info": {
+          "package_name": "com.sm20.ecommerce_app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApXXkzsd7oxDpGP_LNsLTSDHQK-guOB0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
